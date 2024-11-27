@@ -67,4 +67,3 @@ void acon1() {
   delayMicroseconds(50);
   digitalWrite(triacPulse, LOW);
 }
-hvgjvjj
